@@ -1,9 +1,9 @@
 # 科学上网
 ## 一、Mac/Win
 * 订阅地址：请联系作者获取
-### Clash Verge
+### 1. Clash Verge
 * 下载地址：https://github.com/clash-verge-rev/clash-verge-rev/releases
-* 注意事项：建议选择最新的稳定版本（Latest）
+* 注意事项：建议选择最新的稳定版本（***Latest***）
 * Mac版本：Clash.Verge_2.4.4_aarch64.dmg
 * Win版本：Clash.Verge_2.4.4_x64-setup.exe
 
@@ -17,17 +17,17 @@
     - 订阅：选择已订阅的名称
     - Proxy：选择代理节点（建议选择美国ChatGPT解锁节点）
     - 系统代理：勾选
-
+---
 ## 二、iOS/Android
 * 订阅地址：请联系作者获取
-### iOS：Shadowrocket（App Store 美区）
+### 1. iOS：Shadowrocket（App Store 美区）
 * 复制【订阅地址】
 * 右上角+号 → 【Type 选择 Subcribe】 → 确认【URL】 → 【Save】
 * 【Connectivity Test】 → 点击最右侧的【T】修改为【CONNECT】
 * 点击【Connectivity Test】 测试节点的连通性，等待出结果
 * 下滑选择可用的美国代理 → 点击【Not Connected】使用代理
 
-### Android：NekoBox
+### 2. Android：NekoBox
 * 下载地址：https://github.com/Matsuridayo/NekoBoxForAndroid/releases
 * 复制【订阅地址】
 * 【Configurationg】 → 点击右上角【+号】 → 【Import from Clipboard】
